@@ -39,3 +39,12 @@ inside your terminal you can now run:
 
 > npm test
 
+#### If you would like to keep a copy of this challenge in your own Github repo.
+
+Create a new Repo with no Readme and no licence
+
+update the remote of your challenge. 
+
+1. git remote set-url origin <Insert your github Address here>
+
+2. git add/  commit / push
