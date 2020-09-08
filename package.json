@@ -1,0 +1,19 @@
+{
+	"name": "phone-comparisons-promises",
+	"version": "1.0.0",
+	"description": "Make sure that this is done with Promises.",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git.edstem.org:challenge/20044/phone-comparisons-promises"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^26.4.2"
+	}
+}
