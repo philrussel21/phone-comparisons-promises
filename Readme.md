@@ -18,3 +18,24 @@ only afford $500.00
 - be eventually passed to the options function that will result
 in an array of objects of the best options.
 
+#### How to run the tests
+
+inside the directory that we cloned the Challenge into, run:
+
+> npm init -y
+
+To Install the testing framework, run the install command: 
+
+> npm install jest
+
+We now need to Update the script that is found inside of the package.json file. it should look like:
+
+"scripts": {
+ "test": "jest" 
+ }
+
+
+inside your terminal you can now run: 
+
+> npm test
+
